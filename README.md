@@ -5,7 +5,7 @@ This is a simple reminder software, it will save reminders to a file, and rememb
 
 Purpose: I wanted a way to stay organized with my classes and job, it is also a way to remain proficient in C#
 
-[Software Demo Video](https://youtu.be/HMHRF_4cZ4g)
+[Software Demo Video](https://youtu.be/SokP-PMLzhk)
 
 # Development Environment
 
